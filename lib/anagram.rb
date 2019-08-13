@@ -3,4 +3,5 @@ class Anagram
   
    def initialize(word_to_analyze)
      
+   end 
 end
