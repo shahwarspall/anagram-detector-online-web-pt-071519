@@ -1,8 +1,4 @@
 class Anagram
-  attr_accessor :match
-  word= []
-  def initialize(word)
-    @@match = word
-  end
+  attr_accessor :word_to_analyze
   
-end 
+end
